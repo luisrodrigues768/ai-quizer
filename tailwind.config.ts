@@ -64,10 +64,10 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				},
 				theme: {
-					blue: '#3b82f6',
-					purple: '#8b5cf6',
-					pink: '#ec4899',
-					gradient: 'linear-gradient(90deg, #3b82f6, #8b5cf6, #ec4899)'
+					blue: '#00BFFF',
+					cyan: '#00FFFF',
+					black: '#000000',
+					gradient: 'linear-gradient(90deg, #00BFFF, #00FFFF)'
 				}
 			},
 			borderRadius: {
